@@ -1,0 +1,59 @@
+{
+    "title": "失落的满大林",
+    "description": "记录 GitBook 的配置和一些插件的使用",
+    "author": "loremwalker",
+    "root": ".",
+    "structure": {
+        "readme": "readme.md"
+    },
+    "links": {
+        "sidebar": {
+            "失落的满大林": "https://github.com/loremwalker/LostMandarin"
+        }
+    },
+
+    "plugins": [
+        "github-buttons",
+        "github",
+        "uml",
+        "expandable-chapters",
+        "toggle-chapters",
+        "anchors",
+        "prism",
+        "-highlight",
+        "-lunr", "-search", "search-plus",
+        "sectionx",
+        "tbfed-pagefooter"
+    ],
+
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true,
+            "expandable-chapters":{}
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+            ]
+        },
+        "sectionx": {
+            "tag": "b"
+          },
+        "github": {
+            "url": "https://github.com/loremwalker/LostMandarin"
+        },
+        "github-buttons": {
+            "user": "loremwalker",
+            "repo": "loremwalker/LostMandarin",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+    },
+    "tbfed-pagefooter": {
+        "copyright":"cc BY-NC 2019 loremwalker",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+ }
+}
