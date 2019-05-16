@@ -1,0 +1,103 @@
+{
+	"root": {
+		"id": "gylmvpne",
+		"text": "培训机构x问？",
+		"color": "#000",
+		"layout": "graph-right",
+		"shape": "ellipse",
+		"children": [
+			{
+				"id": "hdqgxcwp",
+				"text": "为什么热衷搞网络课堂教学？",
+				"side": "right",
+				"value": 1,
+				"children": [
+					{
+						"id": "xvesrswq",
+						"text": "利用网络远程教学赚钱还可节省人力、物力等经费等"
+					},
+					{
+						"id": "yaiystwk",
+						"text": "网络录制下的视频还可通过自身网站以及淘宝、qq等平台出售赚钱"
+					},
+					{
+						"id": "itrjutkk",
+						"text": "2.1-2.3节点内容已概括，btw，<br>拿的出会说的讲师讲解新人感兴趣的内容，又故意模糊细节，以此来吸引更多"
+					}
+				]
+			},
+			{
+				"id": "ogzvbcia",
+				"text": "为什么有的有大量视频流出而有的却几乎没几个？",
+				"color": "#000",
+				"value": 2,
+				"children": [
+					{
+						"id": "bytfsisk",
+						"text": "大量视频流出原因：",
+						"color": "#fa3",
+						"children": [
+							{
+								"id": "ufqlxdwz",
+								"text": "试水（一般的）或炫教学质量（当家的）",
+								"value": 2.1
+							},
+							{
+								"id": "uflkokhg",
+								"text": "扩张宣传范围搞大知名度",
+								"value": 2.2
+							},
+							{
+								"id": "yzagfolv",
+								"text": "最终目的，当然是拉更多的人了",
+								"value": 2.3
+							}
+						]
+					},
+					{
+						"id": "tyzigmqk",
+						"text": "几乎没几个的缘由",
+						"color": "#fa3",
+						"children": [
+							{
+								"id": "phisqzzj",
+								"text": "法律威胁，观看软件限制",
+								"value": 2.11
+							},
+							{
+								"id": "foeqwcjx",
+								"text": "害怕露底，坑蒙拐骗在行，教学质量过低，<br>发出来都丢人<br>",
+								"value": 2.12
+							},
+							{
+								"id": "ewbepigi",
+								"text": "大学式面授，目前相对来说实际并不多",
+								"value": 2.13
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "wvciubgl",
+				"text": "还要验证大专学历？",
+				"color": "#000",
+				"value": 3,
+				"children": [
+					{
+						"id": "mhmjhhpq",
+						"text": "套路式装逼，少一句不如多一句，提升自己档次，假正经"
+					},
+					{
+						"id": "zksnwuai",
+						"text": "防止一些虽毕业但想试水接触及了解社会的学生"
+					},
+					{
+						"id": "ohbwpzwc",
+						"text": "ps: 实在没必要花过万的冤枉钱去补习功课以及换就业证明去培训机构；<br>看书比看视频以及完成所谓的脱产式培训效率要高得多"
+					}
+				]
+			}
+		]
+	}
+}
